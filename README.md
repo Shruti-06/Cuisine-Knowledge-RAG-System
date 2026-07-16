@@ -91,6 +91,9 @@ A Gradio UI supporting two input routes: batch JSON upload and free-text questio
 ├── Data/
 │   ├── Background_Corpus.json        # Cleaned corpus (411 documents)
 │   └── RAG_Benchmark_Dataset.json    # 250-query QA benchmark
+├── Indexes/
+│   └── bge_chunks.pkl                # Chunk store (adaptive source-aware chunks)
+│   └── bge_index.faiss               # FAISS vector index (BGE embeddings)
 ├── Notebook/
 │   └── Codebase.ipynb                # Full pipeline: corpus → chunking → retrieval → generation → UI
 └── README.md
