@@ -1,0 +1,2254 @@
+{
+  "results": [
+    {
+      "query_id": "0",
+      "query": "Where is biryani believed to have originated?",
+      "response": "Biryani is a mixed rice dish originating in South Asia. It was present in Mughal-era India and is thought to derive from a Persian rice dish, either pilau or birinj biryan. It was likely developed in the Mughal court kitchens, combining slow-cooking techniques from Persian cuisine with a spicy Indian style of cooking.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Biryani",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "1",
+      "query": "How long is haleem traditionally cooked and what consistency does it produce?",
+      "response": "Haleem is slow-cooked for seven to eight hours and then vigorously stirred or beaten with a pestle-like stirring stick. This results in a paste-like consistency, blending the flavours of spices, meat, barley, and wheat. The long cooking time is essential to achieve its characteristic thick texture.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Haleem",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "2",
+      "query": "In which countries are momos popular besides Tibet and Nepal?",
+      "response": "Momos are popular in neighbouring Bhutan, Bangladesh, Pakistan and India, in addition to their origins in Tibetan and Nepali cuisine. Tibetan momos are half-moon in shape while Nepali momos are normally round. They are usually served with a sauce known as achar, influenced by South Asian spices and herbs.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Momo (food)",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "3",
+      "query": "What does the name nihari mean and when was it traditionally eaten?",
+      "response": "The name nihari originates from the Arabic word nahâr meaning morning, and it was originally eaten by nawabs in the Mughal Empire as a breakfast course following Fajr prayer. It is a stew made from slow-cooked meat, mainly shank cuts of beef, lamb, or goat, as well as chicken and bone marrow. It is flavoured with long pepper and often served with naan, roti or rice.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Nihari",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "4",
+      "query": "How is kottu roti prepared and what does the word kottu mean?",
+      "response": "Kottu roti consists of chopped roti, a meat curry of choice, scrambled egg, onions and chillies. The word koththu means \"to chop\" in Tamil, referring to its method of preparation as the ingredients are chopped together on a griddle. A South Indian variation called kothu parotta uses parotta instead of roti.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Kottu",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "5",
+      "query": "Which are the core ingredients of Kabuli pulao?",
+      "response": "The core ingredients of Kabuli pulao are steamed rice mixed with caramelized carrots and raisins as well as marinated meat. It is commonly garnished with almonds and pistachios, and saffron may be added. Kabuli pulao is the national dish of Afghanistan and is also made in Uzbekistan, Armenia, and Turkey.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Kabuli pulao",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "6",
+      "query": "What substitutes are used for rice in dal bhat at high altitudes in Nepal?",
+      "response": "At higher elevations in Nepal above 6,500 feet where rice does not grow well, grains such as maize, buckwheat, barley or millet may be substituted in a preparation called dhindo or atho. Bhat may also be supplemented with roti. Dal bhat is a staple food throughout Nepal and the Indian subcontinent.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Dal bhat",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "7",
+      "query": "During which festivals is sel roti traditionally prepared in Nepal?",
+      "response": "Sel roti is mostly prepared during Dashain and Tihar, widely celebrated Hindu festivals in Nepal as well as in Darjeeling, Kalimpong, Sikkim, and the Kumaon region of Uttarakhand. It is a traditional ring-shaped sweet fried dough made from rice flour. The dish is estimated to be over 800 years old.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Sel roti",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "8",
+      "query": "What are the main ingredients in pol sambol?",
+      "response": "Pol sambol is a Sri Lankan coconut relish consisting of freshly grated coconut, shallots, dried whole chilies or chili powder, lime juice, and salt. Traditionally the ingredients are ground on a rectangular granite block with a granite rolling-pin known as a miris gala. An alternative variation includes Maldives fish, a smoked and cured tuna.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Pol sambol",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "9",
+      "query": "On what occasions is kiribath traditionally served in Sri Lanka?",
+      "response": "Kiribath is commonly served for breakfast on the first day of each month and is eaten for any auspicious moment throughout one's lifetime, marking times of transition. It is prepared by cooking rice with coconut milk and is an essential dish in Sri Lankan cuisine. The word kiribath comes from Sinhala where kiri means milk and bath means rice.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Kiribath",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "10",
+      "query": "How is idli batter prepared and why is fermentation important?",
+      "response": "Idli cakes are made by steaming a batter of fermented hulled black lentils and rice. The fermentation process breaks down the starches so that they are more readily metabolised by the body. Idli is a South Indian and Sri Lankan breakfast food with variations including rava idli, made from semolina.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Idli",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "11",
+      "query": "How is masala chai made and how has it gained global popularity?",
+      "response": "Masala chai is made by adding aromatic herbs and spices to chai, brewed from black tea in milk and water, and sweetened with sugar. The term chai originated from the Chinese word for tea, cha, via Hindi. The beverage originated in India and has gained worldwide popularity in coffee and teahouses where it is often called chai latte.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Masala chai",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "12",
+      "query": "Where did lassi originate and how is it traditionally served?",
+      "response": "Lassi originated in Punjab, where the yogurt is traditionally made from water buffalo milk. It is prepared by blending yogurt, water, and spices, with the word lassi meaning yogurt mixed with water in Punjabi and Hindi-Urdu. Lassi is traditionally served in a clay cup known as kulhar and is now commonly consumed in many world regions.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Lassi",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "13",
+      "query": "How does kulfi differ from regular ice cream?",
+      "response": "Kulfi is denser and creamier than regular ice cream, and unlike ice cream it is not churned while frozen, resulting in a denser final product. This density causes kulfi to melt more slowly than ice cream, making it a distinct category of frozen dairy dessert. Kulfi originated in 16th-century Delhi during the Mughal era and comes in flavours including almond, cardamom, mango, pistachio, and saffron.",
+      "retrieved_context": [],
+      "question_type": "comparison",
+      "source_title": "Kulfi",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "14",
+      "query": "What is gulab jamun traditionally made from?",
+      "response": "Gulab jamun is made mainly from milk solids, traditionally khoya, which is milk reduced to a soft dough by heating until the water evaporates. Modern recipes use dried or powdered milk instead. It is garnished with dried nuts such as almonds and cashews, and is popular across India, Bangladesh, Nepal, Pakistan, and the Maldives.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Gulab jamun",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "15",
+      "query": "How is jalebi made and how is it eaten?",
+      "response": "Jalebi is made by deep-frying maida flour batter in pretzel or circular shapes, which are then soaked in sugar syrup. It is eaten with curd or rabri in North India, along with optional flavours such as kewra. In some West Asian cuisines, jalebi consists of yeast dough fried and dipped in honey and rose water syrup.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Jalebi",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "16",
+      "query": "What are the main ingredients in kheer and what variations exist?",
+      "response": "Kheer is made by boiling milk, sugar or jaggery, and rice, and can be flavoured with dried fruits, nuts, cardamom and saffron. Instead of rice, it may contain cracked wheat, vermicelli, sago, or tapioca. The word kheer is derived from the Sanskrit word kshira meaning milk, and in Nepal it tends to be thicker with fewer ingredients.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Kheer",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "17",
+      "query": "Where does the name samosa come from and what does it typically contain?",
+      "response": "The name samosa originates from the Middle Persian word sambosag meaning triangular pastry. It is a fried pastry with a savoury filling mostly consisting of spiced potatoes, onions, and peas, but can include paneer, meat, or fish. It is made in triangular, cone, or crescent shapes depending on the region, and is often accompanied by chutney.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Samosa",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "18",
+      "query": "Where did vada pav originate and why is it culturally significant?",
+      "response": "Vada pav is native to Maharashtra and originated as an affordable street food in Mumbai. It consists of a deep-fried potato dumpling inside a bread bun, accompanied by chutneys and a green chili pepper. It is also called Bombay burger and is considered the most famous snack in Mumbai, regarded as part of the culture of Mumbaikars.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Vada pav",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "19",
+      "query": "In which countries are regional variations of haleem found?",
+      "response": "Popular variations of haleem include ke?kek in Turkey, Tajikistan, Uzbekistan, Azerbaijan and Northern Iraq; harisa in the Arab world and Armenia; and halim in Afghanistan, Iran, West Bengal, Mauritius, Pakistan and Bangladesh. Hyderabadi haleem is the Indian variation. The dish is widely consumed across South Asia, the Middle East, and Central Asia.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Haleem",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "20",
+      "query": "What are the main ingredients used in watalappam?",
+      "response": "Watalappam is a Sri Lankan steamed coconut custard made from thick coconut milk, brown sugar or jaggery, eggs, and optional spices including ground cardamom and cloves. It is garnished with cashews. The flavour can be varied by adding thick pandan juice or vanilla pod gratings.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Cookbook:Watalappam (Sri Lankan Coconut Custard)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "21",
+      "query": "What ingredients go into the filling of Tibetan meat momos?",
+      "response": "The filling consists of ground or minced chicken, turkey, lamb, or pork combined with finely chopped onion, shallots, cilantro, diced tomatoes, garlic paste, ginger paste, cumin powder, coriander powder, and ghee or butter. Optional turmeric can also be added. The wrapper is made from all-purpose flour, water, and salt.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Cookbook:Tibetan Meat Momos",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "22",
+      "query": "On what occasion is sheer khurma traditionally served and where does it originate?",
+      "response": "Sheer khurma is a sweet noodle soup served by Muslims in India and other South Asian countries to guests during the holy month of Ramadan. The recipe originally comes from Mughal India. It is made from vermicelli, ghee, dried dates, almonds, raisins, cashew nuts, milk, cream, sugar, and cardamom powder.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Cookbook:Sheer Khurma",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "23",
+      "query": "How is mishti doi made and what gives it its distinctive flavour?",
+      "response": "Mishti doi is a traditional Bengali dish where the secret to its flavour is caramelized sugar. It is made by reducing whole milk by half, then adding caramelized sugar and setting the mixture with a small amount of yogurt. The caramelization gives mishti doi its characteristic golden colour and sweet flavour.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Mishti Doi (Bengali Sweetened Yogurt)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "24",
+      "query": "How is qabuli, the Central Asian rice pilaf, prepared?",
+      "response": "Qabuli is prepared by soaking and boiling chickpeas with salt, red pepper, and ginger garlic paste until the water is fully absorbed. Rice is boiled, reduced, and then rested covered. The dish also includes onions, chili powder, tomato paste, turmeric powder, chopped cilantro, and green chiles.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Qabuli (Central Asian Rice Pilaf)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "25",
+      "query": "How is biryani traditionally cooked using the dum method?",
+      "response": "Biryani is traditionally cooked using the dum method, where marinated meat and partially cooked rice are layered together in a sealed pot and slow-cooked over a low flame. The meat is marinated in yogurt and spices before layering. This technique allows the flavours to meld together as the dish finishes cooking in its own steam.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Biryani",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "26",
+      "query": "What makes dal makhani distinct from other lentil dishes?",
+      "response": "Dal makhani is distinguished by its use of whole black gram lentils and kidney beans, slow-cooked with butter, cream, tomatoes, and spices. The cream and butter give it a rich, velvety texture unlike other dals. It is often cooked overnight on a low flame to develop its characteristic deep flavour.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Cookbook:Dal Makhani (Black Gram with Cream)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "27",
+      "query": "How is appam made and what makes it unique in texture?",
+      "response": "Appam is made from a fermented batter of soaked and ground rice combined with coconut milk and a small amount of cooked rice or yeast. The batter is cooked in a small wok-shaped pan, producing a pancake with a soft spongy centre and crispy lacy edges. It is a popular breakfast dish in Kerala and Sri Lanka.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Appam (Fermented Rice Pancake)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "28",
+      "query": "Which spices are typically used in masala chai?",
+      "response": "Masala chai is made by brewing black tea in milk and water with aromatic spices including cardamom, ginger, cinnamon, cloves, and black pepper. The tea is sweetened with sugar. The combination of spices gives masala chai its distinctive warming and aromatic flavour.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Cookbook:Masala Chai I",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "29",
+      "query": "How is chapati dough made and cooked?",
+      "response": "Chapati dough is made by mixing whole wheat atta flour with water and a pinch of salt, then kneading until smooth and soft. The dough is rolled into thin flat rounds and cooked on a dry hot tawa. Once small brown spots appear, the chapati is flipped and gently pressed to encourage it to puff up.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Chapati",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "30",
+      "query": "How is chicken tikka masala prepared?",
+      "response": "Chicken tikka masala is prepared by first marinating chicken in yogurt and spices including cumin, coriander, turmeric, and chili, then grilling or baking the pieces. The cooked chicken is then added to a creamy tomato-based sauce made with onions, garlic, ginger, garam masala, and cream. It is finished with fresh coriander and served with naan or rice.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Chicken Tikka Masala",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "31",
+      "query": "How is naan traditionally made and baked?",
+      "response": "Naan is made from leavened dough of plain flour, yeast, yogurt, and salt, which is left to rise before being shaped by hand into flat oval or teardrop shapes. Traditionally it is baked in a tandoor oven where it is slapped onto the inner wall and cooks rapidly in intense heat. It can be brushed with ghee or butter and topped with garlic or seeds after baking.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Naan",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "32",
+      "query": "How is the filling for samosas typically prepared?",
+      "response": "The classic samosa filling consists of spiced potatoes and peas cooked with cumin seeds, ginger, green chilies, coriander powder, and garam masala. The filling is prepared separately and cooled before being encased in pastry. The pastry is folded into a triangular or cone shape and deep-fried until golden and crispy.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Samosa",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "33",
+      "query": "How is kheer made according to the Wikibooks recipe?",
+      "response": "Kheer is made by simmering rice in full-fat milk over a low flame, stirring frequently until the mixture thickens and the rice is fully cooked. Sugar is then added along with cardamom, saffron, and rose water. It is garnished with chopped almonds, pistachios, and raisins and served warm or chilled.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Kheer (Rice Pudding)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "34",
+      "query": "How has Afghanistan's history and geography shaped its cuisine?",
+      "response": "Afghanistan has historically been an important intersection of trade between Pakistan, India, China, Iran, and Central Asian countries, and its cuisine took influences from all these places. The harsh cold and mountainous climate shaped the prominent use of lamb and mutton, with mutton fat being an important component for sustenance. Centuries of war and invasion further forced Afghans to make the best of cheap and readily available ingredients.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "35",
+      "query": "How does food in eastern Pakistan differ from western Pakistan?",
+      "response": "The eastern part of Pakistan favours strongly seasoned and spicy food, similar to their Indian neighbours, whereas the western part favours milder recipes that resemble their Central Asian neighbours. There is great diversity across the varied cultural groups and regions of Pakistan, particularly along the east-west axis. One thing that unites many Pakistanis is that the average citizen eats many times more meat than their neighbours.",
+      "retrieved_context": [],
+      "question_type": "comparison",
+      "source_title": "54. Pakistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "36",
+      "query": "How does Northern Indian cuisine differ from Southern Indian cuisine?",
+      "response": "Northern Indians tend to eat more wheat than rice, more meat and less seafood, with thicker and richer curries and a greater amount of dairy products, owing to a drier and colder climate with more pasture. Southern India relies more on rice, seafood, lentils, curry leaves, and tropical fruits such as coconut. Most curries familiar to Westerners in international Indian restaurants are from the north.",
+      "retrieved_context": [],
+      "question_type": "comparison",
+      "source_title": "6. Northern India",
+      "source": "blog"
+    },
+    {
+      "query_id": "37",
+      "query": "What characterises the diet and cuisine of Southern India?",
+      "response": "Southern India relies more upon rice as the carbohydrate staple, as well as a larger variety of seafood, lentils, curry leaves, and tropical fruits such as coconut. The cuisine is remarkably varied, tasty, and surprisingly healthy. A traditional Southern Indian meal known as thali or sadhya features multiple dishes served together, showcasing the diversity and balance of the region's cooking.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "44. Southern India",
+      "source": "blog"
+    },
+    {
+      "query_id": "38",
+      "query": "What historical influences have shaped Pakistani cuisine?",
+      "response": "Pakistani cuisine is influenced by neighbouring Indian cuisine and Central Asia, as well as having historical influences from the Mughal Empire, ruled from the 1500s by a Muslim dynasty. The Indus valley, which runs through Pakistan, was one of the earliest cradles of civilisation and contributed to a rich culinary tradition. The cuisine also reflects the country's Islamic heritage through adherence to halal food principles.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "54. Pakistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "39",
+      "query": "Why are lamb and mutton so prominent in Afghan cuisine?",
+      "response": "Lamb and mutton are much used in Afghan cuisine, with the fat of the mutton being an important component to sustain the population in the harsh cold and mountainous climate of Afghanistan. The country's geography and climate make lamb and mutton more readily available than other meats. Centuries of hardship also meant resourceful use of available ingredients, including cheaper cuts of lamb and mutton, became a hallmark of Afghan cooking.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "40",
+      "query": "What is the difference between haleem and its Turkish variation?",
+      "response": "Haleem and its Turkish variation are closely related dishes that share the same slow-cooking method of wheat or barley with meat, beaten to a paste-like consistency. The Turkish version is found in Turkey, Tajikistan, Uzbekistan, Azerbaijan, and Northern Iraq, while haleem is the name used across South Asia. Both dishes are essentially regional expressions of the same culinary tradition, differing mainly in name and minor local adaptations.",
+      "retrieved_context": [],
+      "question_type": "comparison",
+      "source_title": "Haleem",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "41",
+      "query": "Is biryani definitely a Mughal invention or is its origin disputed?",
+      "response": "The origin of biryani is actively debated and no single origin is accepted. While biryani was present in Mughal-era India and was likely developed in the Mughal court kitchens, it is also possible it was brought to South India before the Mughal era. Scholars have proposed both Persian and pre-Mughal South Indian origins, and the precise date and place of origin remain unsettled.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Biryani",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "42",
+      "query": "Does the word dal refer to a specific dish or something broader?",
+      "response": "Dal refers both to dried split pulses such as lentils, peas, and beans, and to the various soups and dishes prepared from them. The word derives from the Sanskrit verbal root dal meaning to split. So dal is not a single dish but a broad category covering both the raw ingredient and the range of cooked preparations made from it across South Asian cuisines.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Dal",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "43",
+      "query": "How is korma related to similar dishes found across Turkey, Azerbaijan and Persia?",
+      "response": "Korma, Turkish kavurma, Azerbaijani qovurma or kavarma, and Persian ghormeh all share the same ultimate linguistic and culinary root, referring to the braising or slow-cooking technique used in the dish. The English name korma is an anglicisation of the Hindi-Urdu qorm? meaning braising. This shared ancestry shows that these dishes across very different countries evolved from a common cooking tradition rather than independently.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Korma",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "44",
+      "query": "How is pilaf connected to both Spanish paella and South Asian biryani?",
+      "response": "Pilaf, paella, and biryani all evolved from the same ancient tradition of cooking grain in stock or broth with spices. During the Abbasid Caliphate, methods of cooking rice spread from South Asia to Spain, giving rise to paella in Spain and pulao in South Asia. Biryani also evolved from such pilaf-style dishes, making all three distant culinary relatives sharing a common ancestor.",
+      "retrieved_context": [],
+      "question_type": "comparison",
+      "source_title": "Pilaf",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "45",
+      "query": "What is kheer known as in South India and what is the Sanskrit root of both names?",
+      "response": "In South India, kheer is known as payasam, a name originating from the Sanskrit term p?yasa. The word kheer itself derives from the Sanskrit word kshira meaning milk or a milk-based dish. Both names therefore share Sanskrit roots, reflecting the ancient and pan-Indian nature of this rice pudding even though it carries different regional names across the subcontinent.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Kheer",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "46",
+      "query": "Is curry a purely traditional Indian concept or was it shaped by external influences?",
+      "response": "Curry began in Indian cuisine but was significantly modified through interchange with the Portuguese and then the British before becoming thoroughly internationalised. In medieval India, proto-curries used mild spices like asafoetida, cardamom, coriander, cumin and ginger with only limited heat from black pepper. The arrival of spicy chili peppers from the Columbian exchange, along with tomatoes and potatoes, fundamentally transformed what is now called curry, meaning its modern form is a product of both Indian tradition and colonial influence.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Curry",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "47",
+      "query": "What is borhani and on what occasion is it traditionally served in Bangladesh?",
+      "response": "Borhani is a yoghurt-based spiced drink popular in Bangladesh, made from full-fat plain yoghurt blended with dry-roasted cumin seeds, green chilli peppers, mint, coriander, white mustard seeds, white and black pepper, sugar, and salt. It is traditionally served at wedding ceremonies around the country. It is served cold and is distinct from lassi in its use of mustard seeds and a wider range of savoury spices.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Cookbook:Borhani (Spiced Yogurt Drink)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "48",
+      "query": "What makes Sylheti beef curry distinct and what is the unusual citrus ingredient used?",
+      "response": "Sylheti beef curry is notable for its use of hatxora, botanically known as Citrus macroptera, an unusual citrus fruit that gives the dish a distinctive sour note not commonly found in other South Asian beef curries. It is cooked with beef, onions, ginger-garlic paste, cumin, coriander, turmeric, chilli powder, tomatoes, green chillies, and whole spices including cloves, green cardamom pods, cinnamon, and bay leaves. The hatxora sets this dish apart as a regionally specific Sylheti preparation.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Cookbook:Sylheti Beef Curry",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "49",
+      "query": "Why are Nepal, Bhutan, Bangladesh and Myanmar sometimes grouped together in terms of cuisine?",
+      "response": "Nepal, Bhutan, Bangladesh and Myanmar share significant culinary influence from the Tibetan empire, whose citizens fled to surrounding countries during various upheavals across the centuries, bringing their cultural history and cuisine with them. The food of these mountainous and border regions shares similar characteristics that set them apart from the larger South Asian nations. This Tibetan culinary thread running through all four countries is what connects their cuisines despite their geographical and political differences.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "8. South Asia Minor",
+      "source": "blog"
+    },
+    {
+      "query_id": "50",
+      "query": "What are the two core ingredients of the Bhutanese national dish, Ema Datshi?",
+      "response": "Chilies (Ema) and cheese (Datshi).",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "8. South Asia Minor",
+      "source": "blog"
+    },
+    {
+      "query_id": "51",
+      "query": "What does the word thukpa generically mean in Eastern Tibet, and how has the dish been adapted in Nepal and Bhutan?",
+      "response": "'Thukpa' generically means 'soup'. It has been adapted with local tastes and ingredients like rice noodles, shredded chicken, and a spice paste of garlic, onion, ginger, turmeric, Szechwan pepper, chili, and tomatoes.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "8. South Asia Minor",
+      "source": "blog"
+    },
+    {
+      "query_id": "52",
+      "query": "What are the key ingredients of the Manipuri dish Sana Thongba?",
+      "response": "Sana Thongba is a dish made with paneer and milk.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Manipuri cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "53",
+      "query": "What is the significance of Wazwan in Kashmiri cuisine, and how many courses can it typically include?",
+      "response": "Wazwan is a multi-course meal (traditionally 36 courses) that is considered a matter of pride in Kashmiri culture, often served at weddings.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Kashmiri cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "54",
+      "query": "What traditional ingredient is used to give Kashmiri Rogan Josh its distinctive deep red colour?",
+      "response": "The red colour is traditionally derived from alkanet root (known as ratan jot).",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Kashmiri cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "55",
+      "query": "What was the original Portuguese dish that evolved into the Goan Vindaloo, and what were its primary preservation ingredients?",
+      "response": "It evolved from the Portuguese dish 'Carne de Vinha d'Alhos', which used meat (usually pork) preserved in wine and garlic.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Goan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "56",
+      "query": "What is the main ingredient of Dhokla and how is it prepared?",
+      "response": "It's made from a fermented batter of rice and split chickpeas (besan) and is steamed.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Dhokla",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "57",
+      "query": "What are the primary ingredients of the traditional Maldivian breakfast dish Mas Huni?",
+      "response": "It consists of finely chopped tuna, onion, coconut, and chili, often served with roshi (flatbread).",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "20. Sri Lanka and The Maldives",
+      "source": "blog"
+    },
+    {
+      "query_id": "58",
+      "query": "What is Garudhiya and how is it traditionally consumed in the Maldives?",
+      "response": "It is a clear fish broth made from tuna, usually served with rice, lime, chili, and onions.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "20. Sri Lanka and The Maldives",
+      "source": "blog"
+    },
+    {
+      "query_id": "59",
+      "query": "How is the Nepalese dish Gundruk prepared and what makes it distinct?",
+      "response": "It is prepared by fermenting leafy green vegetables (like mustard, radish, or cauliflower leaves) and then drying them, giving it a distinctive sour and earthy flavour.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "8. South Asia Minor",
+      "source": "blog"
+    },
+    {
+      "query_id": "60",
+      "query": "What distinguishes a Bengali Luchi from a standard North Indian Poori?",
+      "response": "Luchi is made with maida (refined flour) instead of atta (whole wheat flour) and is usually deep-fried to a pale, non-browned colour.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "61",
+      "query": "What is the nature of the historical dispute between West Bengal and Odisha regarding the origin of Rasgulla?",
+      "response": "Both states claim to be the birthplace of the sweet; Odisha claims it was offered at the Puri Jagannath Temple for centuries, while West Bengal claims it was invented by Nobin Chandra Das in 1868.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "62",
+      "query": "What is another name for Idiyappam, and how is it traditionally shaped?",
+      "response": "It is also known as 'string hoppers' and is made by pressing rice flour dough through a mould into a noodle-like form before steaming.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Tamil cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "63",
+      "query": "What are the essential components of Aviyal and which state is it most closely associated with?",
+      "response": "It is a thick mixture of various vegetables, coconut, and curd, seasoned with coconut oil and curry leaves, and is associated with Kerala.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Kerala cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "64",
+      "query": "Which specific greens are used to make Sarson da Saag and what is its traditional accompaniment?",
+      "response": "It is made from mustard greens and is traditionally served with Makki di Roti (maize flatbread).",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Punjabi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "65",
+      "query": "How is the smoky flavor of Baingan Bartha traditionally achieved, as described in the Wikibooks recipe section?",
+      "response": "By roasting the eggplant over an open flame or charcoal until the skin is charred.",
+      "retrieved_context": [],
+      "question_type": "process",
+      "source_title": "Cookbook:Baingan Bartha",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "66",
+      "query": "On which Hindu festival is Modak traditionally offered as a primary prasad to the deity?",
+      "response": "Ganesh Chaturthi (offered to Ganesha).",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Marathi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "67",
+      "query": "What are the layers that typically compose a Misal Pav?",
+      "response": "It consists of 'misal' (a spicy curry made of sprouted moth beans), topped with farsan (savory snack mix), onions, lemon, and coriander, served with pav (bread rolls).",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Marathi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "68",
+      "query": "What two key ingredients give Solkadhi its characteristic pinkish-purple colour and tangy-creamy taste?",
+      "response": "Kokum (dried skin of Garcinia indica) and coconut milk.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Goan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "69",
+      "query": "Which ethnic group in Sri Lanka is responsible for the creation of Lamprais, and what is its unique cooking method?",
+      "response": "The Dutch Burgher community; it involves meat, rice, and sambals wrapped in a banana leaf and baked.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "20. Sri Lanka and The Maldives",
+      "source": "blog"
+    },
+    {
+      "query_id": "70",
+      "query": "What are Afghan Mantu and what is their typical filling and topping?",
+      "response": "They are steamed dumplings filled with spiced meat and onions, usually topped with a yogurt sauce and a tomato-based lentil sauce.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "71",
+      "query": "What is a Bolani and what are common fillings used for it?",
+      "response": "It is a thin, fried or baked flatbread stuffed with fillings like leeks, scallions, potatoes, or lentils.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "72",
+      "query": "What is Shorwa and why is it significant in the Afghan diet?",
+      "response": "It is a traditional soup (usually meat and vegetable) that is a staple meal, often eaten by dipping bread into the broth.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "73",
+      "query": "What are the unusual ingredients used in Tibetan Butter Tea (Po Cha)?",
+      "response": "Tea leaves, yak butter, water, and salt.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Cookbook:Butter Tea",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "74",
+      "query": "What is the base of the curry in Kadhi Pakora, and what are the pakoras made of?",
+      "response": "The curry base is made from yogurt (or buttermilk) and chickpea flour (besan), while the pakoras are deep-fried fritters made of chickpea flour and spices.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Buttermilk Curry Soup (Kadi Pakora)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "75",
+      "query": "How is the eggplant typically prepared for Baingan Bharta to give it a smoky flavour?",
+      "response": "It is traditionally roasted over an open flame or charcoal until the skin is charred and the flesh is soft.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Baingan Bartha",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "76",
+      "query": "What are the three main components that are combined to make a traditional Parsi Dhansak?",
+      "response": "Meat (usually mutton), a variety of lentils (dal), and vegetables.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Parsi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "77",
+      "query": "What is Sai Bhaji and what are its primary green ingredients?",
+      "response": "It is a nutritious Sindhi spinach-based curry containing spinach, dill, and sorrel (gongura).",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Sindhi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "78",
+      "query": "What makes a Pesarattu different from a regular Dosa in terms of its main ingredient?",
+      "response": "Pesarattu is made from a batter of green gram (moong dal) instead of urad dal and rice.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Andhra cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "79",
+      "query": "What does the name Bisi bele bath translate to in Kannada?",
+      "response": "It translates to 'Hot lentil rice'.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Karnataka cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "80",
+      "query": "What is the defining characteristic of a Kerala Thoran?",
+      "response": "It is a dry vegetable dish sautÃ©ed with grated coconut, mustard seeds, and curry leaves.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Kerala cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "81",
+      "query": "What is the specific souring agent often used in Kerala fish curries, known for its medicinal properties?",
+      "response": "Kodampuli (Malabar tamarind).",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Kerala cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "82",
+      "query": "How is Paneer Tikka traditionally cooked, and what is the typical marinade?",
+      "response": "It is marinated in spiced yogurt and grilled in a tandoor (clay oven).",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "North Indian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "83",
+      "query": "What are the primary ingredients of Rajma Chawal?",
+      "response": "Red kidney beans (rajma) served with steamed rice (chawal).",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "North Indian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "84",
+      "query": "What is the filling (puran) of a Puran Poli made from?",
+      "response": "It is a sweet filling made from boiled chana dal (split chickpeas), jaggery, and spices like cardamom.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Marathi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "85",
+      "query": "During which major festival in Assam are Pithas (rice cakes) central to the celebrations?",
+      "response": "Bihu (especially Magh Bihu).",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Assamese cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "86",
+      "query": "What is the alternative name for 'Bhut Jolokia' and where does it primarily grow?",
+      "response": "It is also known as 'Ghost Pepper' or 'King Chili' and grows primarily in Northeast India (Assam, Nagaland, etc.).",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Naga cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "87",
+      "query": "What is Kalpasi (Stone Flower), and why is it important in Chettinad cuisine?",
+      "response": "It is a species of lichen used as a spice to provide a unique earthy aroma to Chettinad gravies.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Chettinad cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "88",
+      "query": "What are Gongura leaves and why are they famous in Andhra cuisine?",
+      "response": "They are sorrel leaves known for their distinctively sour taste, used to make pickles and meat dishes like Gongura Mamsam.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Andhra cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "89",
+      "query": "What is the texture and appearance of the Gujarati snack Khandvi?",
+      "response": "It consists of thin, yellow, tightly rolled sheets made from a batter of gram flour and yogurt.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Gujarati cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "90",
+      "query": "What are the three distinct components of the Rajasthani meal Dal Baati Churma?",
+      "response": "Dal (spicy lentils), Baati (hard wheat rolls cooked in embers), and Churma (sweetened crushed wheat).",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Rajasthani cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "91",
+      "query": "What leaf is used as the base for Pathrode and how is it prepared?",
+      "response": "Colocasia (taro) leaves are coated with a spiced rice flour paste, rolled, steamed, and often sliced and fried.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Karnataka cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "92",
+      "query": "What is the main ingredient used to make the shell of the Malabar snack Unnakaya?",
+      "response": "Steamed and mashed ripe plantains (bananas).",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Kerala cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "93",
+      "query": "During which Nepalese festival is the steamed bun Yomari prepared, and what are its common fillings?",
+      "response": "Yomari Punhi; it is filled with chaku (molasses) or khua (milk solids).",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Nepalese cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "94",
+      "query": "What is the shape of Puttu and how is it traditionally cooked?",
+      "response": "It is cylindrical in shape and is cooked by steaming rice flour and grated coconut in a bamboo or metal tube.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Kerala cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "95",
+      "query": "What is the main ingredient of the Hyderabadi sweet Double ka Meetha, and why is it called Double?",
+      "response": "It is made from fried bread soaked in milk and sugar; it is called 'Double' because it uses 'Double Roti' (the local term for loaf bread).",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Hyderabadi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "96",
+      "query": "What is the primary dairy product used to make traditional Bengali Sandesh?",
+      "response": "Chhena (freshly curdled milk solids).",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "97",
+      "query": "Why is the Ilish (Hilsa) fish considered the King of Fish in Bengali cuisine, especially during the monsoon?",
+      "response": "Because of its unique flavour and cultural significance, often cooked as a simple mustard-based curry (Machher Jhol) during the rainy season.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "98",
+      "query": "What is a Bonda and what are some common variations of its filling?",
+      "response": "A deep-fried snack from South India; variations include potato (Aloo Bonda) and vegetable fillings.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Cookbook:Bonda",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "99",
+      "query": "What is Shukto and what makes its flavour profile unique in a Bengali meal?",
+      "response": "It is a bitter-sweet vegetable stew often served at the beginning of a meal, containing bitter gourd and a variety of vegetables in a milky gravy.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "100",
+      "query": "What is Bai in Mizo cuisine and what is the typical fermented ingredient used in it?",
+      "response": "Bai is a popular Mizo dish made by boiling vegetables (like mustard leaves and water spinach) with 'Sa-um' (fermented pork fat).",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Mizo cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "101",
+      "query": "How is Sa-um prepared and used in Mizo cooking?",
+      "response": "Sa-um is pork fat that is fermented in a local vessel and used to season almost all Mizo dishes, especially 'Bai'.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Mizo cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "102",
+      "query": "What is Berma and why is it a staple in Tripuri cuisine?",
+      "response": "Berma is fermented small fish, used as a key flavouring agent in Tripuri cooking instead of oil or excessive spices.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Tripuri cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "103",
+      "query": "In Tripuri cuisine, what is Wahan Mosdeng and how is it prepared?",
+      "response": "Wahan Mosdeng is a spicy pork dish made with boiled pork, onions, ginger, and roasted green chillies.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Tripuri cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "104",
+      "query": "What distinguishes Dum Pukht cooking, famous in Lucknow (Awadhi cuisine)?",
+      "response": "It is a slow-cooking technique where food (usually meat) is cooked in its own juices in a sealed heavy-bottomed pot (handi) over a slow fire.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Awadhi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "105",
+      "query": "Which specific meat dish from Awadhi cuisine is known for its melt-in-the-mouth texture, originally created for a toothless Nawab?",
+      "response": "Galouti Kebab.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Awadhi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "106",
+      "query": "What is Bal Mithai and what gives it its characteristic appearance?",
+      "response": "It is a chocolate-like fudge made from roasted khoya (evaporated milk solids) and coated with small white sugar balls.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Kumaoni cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "107",
+      "query": "What is Bhatt ki Churkani in Kumaoni cuisine?",
+      "response": "It is a traditional lentil dish made from black soy beans (Bhatt).",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Kumaoni cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "108",
+      "query": "How does Thalassery Biryani differ from other types of biryani in terms of the rice used?",
+      "response": "It uses a short-grain, thin rice called Khaima or Jeerakasala rice, rather than long-grain Basmati rice.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Thalassery cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "109",
+      "query": "What is the primary dietary focus of traditional Udupi cuisine as served in Udupi Krishna Matha?",
+      "response": "It is strictly vegetarian (Satvik) and avoids the use of onions, garlic, and meat.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Udupi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "110",
+      "query": "What is Khar in Assamese cuisine and what is its unique alkaline ingredient?",
+      "response": "Khar is a signature Assamese dish made from sun-dried banana skin ashes (Kolakhar), which gives it a unique alkaline flavour.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Assamese cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "111",
+      "query": "What is Masor Tenga and what defines its flavour profile?",
+      "response": "It is a light and sour fish curry, often made with tomatoes, lemon, or elephant apple to provide its characteristic tanginess.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Assamese cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "112",
+      "query": "What is Pakhala and how is it traditionally consumed in Odisha?",
+      "response": "Pakhala is fermented rice made by soaking cooked rice in water; it is often served with fried vegetables, fish, or 'Badi'.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Odia cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "113",
+      "query": "What is Chhena Poda and what makes it unique among Indian sweets?",
+      "response": "It is a 'burnt' cheese dessert from Odisha, made by baking fresh chhena with sugar and nuts until it caramalises.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Odia cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "114",
+      "query": "What is Litti Chokha and what is the filling (Sattu) made of?",
+      "response": "Litti is a roasted dough ball of whole wheat flour filled with Sattu, which is roasted gram flour mixed with spices.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "Bihar cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "115",
+      "query": "What is Dhuska in Jharkhand cuisine?",
+      "response": "It is a deep-fried snack made from a ground rice and lentil batter (chana dal), often served with a spicy potato curry.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Jharkhand cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "116",
+      "query": "What is Basin Ki Kadi in Sindhi cuisine and what is its main base?",
+      "response": "It is a Sindhi chickpea flour (besan) curry containing various vegetables like okra and potatoes.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Cookbook:Basin Ki Kadi (Sindhi Chickpea Flour Curry)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "117",
+      "query": "What are Bengali Potatoes (Alu Bhaja) according to the Wikibooks recipe?",
+      "response": "They are finely julienned potatoes deep-fried until very crisp, often seasoned with salt and turmeric.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Cookbook:Bengal Potatoes",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "118",
+      "query": "Why is the use of mutton fat (tail fat) particularly important in traditional Afghan cuisine?",
+      "response": "It is an important energy source that helps the population sustain themselves through freezing winters.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "119",
+      "query": "What is a Dastarkhan and how is it typically used in Afghan culture?",
+      "response": "It is a traditional tablecloth spread on the floor where several dishes are arranged for communal family meals.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "120",
+      "query": "In the context of South Asia Minor, why is meat sometimes substituted with potato or radish in Nepal?",
+      "response": "At high altitudes, meat can be scarce and expensive, so local tubers or fermented greens like Gundruk are used instead.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "8. South Asia Minor",
+      "source": "blog"
+    },
+    {
+      "query_id": "121",
+      "query": "What is Shorwa and how is the bread typically consumed with it in Afghanistan?",
+      "response": "Shorwa is a traditional soup; the bread is typically shredded and mixed directly into the broth to soak it up before being eaten.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "122",
+      "query": "What is Borhani and on what specific occasion is it famously served in Bangladesh?",
+      "response": "Borhani is a spiced yogurt drink traditionally served at weddings and during large feasts.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Cookbook:Borhani (Spiced Yogurt Drink)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "123",
+      "query": "What are Bonda in South Indian cuisine, and what is their common shape?",
+      "response": "Bonda are ball-shaped deep-fried fritters made from various fillings like spiced potatoes or vegetables.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Cookbook:Bonda (South Indian Vegetable Fritter)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "124",
+      "query": "How is Baingan Bartha typically seasoned after roasting the eggplant?",
+      "response": "It is usually sautÃ©ed with onions, tomatoes, ginger, green chillies, and various spices like cumin and coriander powder.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Baingan Bartha",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "125",
+      "query": "What is Bhuna Khichuri and how does its consistency differ from standard Khichdi?",
+      "response": "Bhuna Khichuri is 'roasted' rice and lentils, which results in a drier, grainier texture compared to the porridge-like consistency of regular Khichdi.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Bhuna Khichuri (Bengali Rice and Lentils)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "126",
+      "query": "What is the specific process used to make Khandvi give it its characteristic appearance, and what is the base batter made of?",
+      "response": "It is made from a cooked batter of gram flour (besan) and yogurt. The mixture is spread thinly over a flat surface, allowed to set, and then carefully rolled into tight, bite-sized cylinders.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Gujarati cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "127",
+      "query": "What are the core ingredients of Chakarai Pongal as described in Wikibooks?",
+      "response": "Rice, moong dal (black gram), jaggery (sugar), and ghee.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Cookbook:Chakarai Pongal (Sweet Rice and Black Gram Pudding)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "128",
+      "query": "What are the two iconic mutton curries from the Kolhapur region of Maharashtra, and what defines their distinct colours and bases?",
+      "response": "The two iconic curries are Pandhra Rassa and Tambda Rassa. Pandhra Rassa is a white, mild curry made with a base of coconut milk and mutton stock, while Tambda Rassa is a fiery red, spicy curry made with chillies and local spices.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Indian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "129",
+      "query": "What is Paneer and how is it traditionally made at home?",
+      "response": "It is a fresh acid-set cheese made by curdling heated milk with lemon juice or vinegar and then pressing the solids.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Cookbook:Paneer",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "130",
+      "query": "What are Momos typically served with, and what is the general name for this condiment?",
+      "response": "They are served with a spicy sauce known as 'Achar' or 'Chutney'.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Momo (food)",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "131",
+      "query": "Which specific spice provides the yellow colour to most South Asian curries?",
+      "response": "Turmeric.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "South Asian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "132",
+      "query": "What is Ghee and why is it preferred over regular butter in high-heat cooking?",
+      "response": "Ghee is clarified butter; because the milk solids are removed, it has a much higher smoke point than regular butter.",
+      "retrieved_context": [],
+      "question_type": "ingredient",
+      "source_title": "South Asian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "133",
+      "query": "In Maldivian cuisine, what is the Garudhiya broth primarily made of?",
+      "response": "Tuna and water (boiled with salt).",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "20. Sri Lanka and The Maldives",
+      "source": "blog"
+    },
+    {
+      "query_id": "134",
+      "query": "What is Roshi in Maldivian cuisine?",
+      "response": "It is a traditional flatbread similar to Indian chapati or roti.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "20. Sri Lanka and The Maldives",
+      "source": "blog"
+    },
+    {
+      "query_id": "135",
+      "query": "What is Watalappam and which Sri Lankan community is it traditionally associated with?",
+      "response": "It is a spiced coconut custard pudding associated with the Sri Lankan Moor community.",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Sri Lankan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "136",
+      "query": "What are Hoppers (Appam) and how are they traditionally shaped?",
+      "response": "They are bowl-shaped pancakes made from a fermented batter of rice flour and coconut milk, cooked in a small pan called an appachatti.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Sri Lankan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "137",
+      "query": "What is the primary source of starch in a traditional Bhutanese meal besides rice?",
+      "response": "Buckwheat or barley (especially in higher altitudes).",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "8. South Asia Minor",
+      "source": "blog"
+    },
+    {
+      "query_id": "138",
+      "query": "What is Pulao (Pilaf) and how does its preparation generally differ from Biryani?",
+      "response": "In Pulao, the rice and meat/vegetables are usually cooked together in a spiced broth, whereas in Biryani, they are often par-cooked and layered.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Biryani",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "139",
+      "query": "What is Dal in a broad culinary sense and how can it be used?",
+      "response": "It refers to split pulses (lentils, peas, beans) and can refer to the raw ingredient or the cooked soup/stew made from them.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Dal",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "140",
+      "query": "What is Achaar and what is its typical role in a South Asian meal?",
+      "response": "Achaar is a spicy pickle made from vegetables or fruits preserved in oil and salt; it is used as a condiment to add tang and heat to a meal.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "South Asian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "141",
+      "query": "Which leafy green is a common winter staple in Punjab, often served with maize bread?",
+      "response": "Sarson (Mustard greens).",
+      "retrieved_context": [],
+      "question_type": "regional",
+      "source_title": "Punjabi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "142",
+      "query": "What is Samosa and where is its name thought to have originated from?",
+      "response": "A fried pastry with savoury filling; the name comes from the Persian word 'Sanbosag'.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Samosa",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "143",
+      "query": "What is Mishti Doi and what provides its distinctive brown colour?",
+      "response": "It is a sweetened fermented yogurt from Bengal; its colour comes from the caramelisation of sugar during the milk thickening process.",
+      "retrieved_context": [],
+      "question_type": "method",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "144",
+      "query": "What are Rasgullas made of and how are they cooked?",
+      "response": "They are ball-shaped dumplings of chhena (cheese) and semolina dough, cooked in light sugar syrup.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "145",
+      "query": "What is Gulab Jamun made of and what gives it its name?",
+      "response": "It is made of milk solids (khoya) fried and soaked in rose-flavoured syrup; 'Gulab' means rose and 'Jamun' refers to its similarity to the black plum fruit.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Gulab jamun",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "146",
+      "query": "What is Kulfi and why is it denser than Western ice cream?",
+      "response": "Kulfi is a frozen dairy dessert; it is denser because it is not whipped, resulting in a solid, creamy consistency.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Kulfi",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "147",
+      "query": "What is Jalebi and what is its characteristic shape and texture?",
+      "response": "It is a sweet made by deep-frying maida flour batter in pretzel or circular shapes, which are then soaked in sugar syrup; it is crispy and chewy.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Jalebi",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "148",
+      "query": "What is Lassi and what are the two main types?",
+      "response": "A yogurt-based drink; the two main types are sweet (with sugar/fruit) and salty (with spices like cumin).",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Lassi",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "149",
+      "query": "What is Chai and what distinguishes Masala Chai from regular tea?",
+      "response": "Chai is the word for tea; Masala Chai is tea brewed with a mixture of aromatic spices, herbs, milk, and sugar.",
+      "retrieved_context": [],
+      "question_type": "factual",
+      "source_title": "Masala chai",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "150",
+      "query": "What gives Solkadhi its characteristic pink hue and digestive properties, in Goan cuisine?",
+      "response": "The infusion of Kokum (Garcinia indica) mixed with fresh coconut milk.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Goan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "151",
+      "query": "Why is Khar often served at the beginning of an Assamese meal?",
+      "response": "It is believed to act as a palate cleanser and a digestive stimulant due to its unique alkaline properties.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Assamese cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "152",
+      "query": "Why is Juju Dhau in Nepal often served in clay pots?",
+      "response": "The clay absorbs excess moisture, making the yogurt exceptionally thick and creamy.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "8. South Asia Minor",
+      "source": "blog"
+    },
+    {
+      "query_id": "153",
+      "query": "Why does Haleem require constant vigorous beating during the final stages of cooking?",
+      "response": "To break down meat fibres and wheat into a perfectly smooth, elastic, and thick paste.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Haleem",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "154",
+      "query": "Why is the Dastarkhan central to Afghan hospitality?",
+      "response": "It represents the gathering of family and guests around a shared cloth on the floor, symbolizing communal unity.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "155",
+      "query": "Why is Asafoetida (Hing) a common flavouring in Udupi cuisine?",
+      "response": "It is used as a flavour substitute for prohibited onion and garlic in Satvik diets.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Udupi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "156",
+      "query": "Why is Kokum preferred over tamarind in the Konkan region for souring?",
+      "response": "It grows locally and provides a cleaner, more floral tartness that pairs well with coconut milk.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Goan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "157",
+      "query": "Why are lamb and mutton so prominent in Afghan cuisine compared to other meats?",
+      "response": "The animals are well-suited to the mountainous terrain and provide high-fat meat necessary for the cold climate.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "158",
+      "query": "Why is Watalappam traditionally prepared with Kithul jaggery instead of sugar?",
+      "response": "It provides a deep, smoky sweetness and dark colour that defines the authentic Sri Lankan version.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Sri Lankan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "159",
+      "query": "Why is the addition of Panch Phoron unique to Eastern Indian (Bengali/Assamese) cooking?",
+      "response": "The specific combination of five seeds (fennel, cumin, nigella, fenugreek, mustard) creates a flavor profile that doesn't exist elsewhere in India.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "160",
+      "query": "Why is Parboiled rice used in Idli batter instead of raw rice?",
+      "response": "It provides the right starch consistency for better fermentation and a fluffier texture.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Idli",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "161",
+      "query": "Why is Bhut Jolokia pepper often handled with extreme caution during cooking?",
+      "response": "It is one of the world's hottest chillies and can cause severe skin and eye irritation if the oils are touched directly.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Naga cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "162",
+      "query": "Why is mustard oil the preferred cooking medium in Bengali and Assamese cuisines?",
+      "response": "It provides a sharp, pungent flavour profile that complements fish and traditional vegetable preparations.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "163",
+      "query": "Why is Sajji traditionally cooked with only salt and papaya as a marinade?",
+      "response": "To allow the natural flavour of the meat to shine while the papaya acts as a natural tenderizer.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "54. Pakistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "164",
+      "query": "Why is Dhansak traditionally served on the fourth day after a funeral in Parsi culture?",
+      "response": "It is a protein-rich meal intended to restore the strength of the mourners after days of abstinence from meat.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Parsi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "165",
+      "query": "Why is the use of clarified butter (Ghee) so extensive in high-altitude Tibetan/Bhutanese diets?",
+      "response": "It provides a high-density energy source and is stable for storage in harsh conditions.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "8. South Asia Minor",
+      "source": "blog"
+    },
+    {
+      "query_id": "166",
+      "query": "Why is Borhani considered a healthy drink to serve at Bangladeshi weddings?",
+      "response": "The combination of yogurt and spices like black salt and mint acts as a powerful digestive aid after heavy meals.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Borhani",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "167",
+      "query": "Why is Mantu steamed rather than boiled in Afghan tradition?",
+      "response": "Steaming preserves the delicate texture of the thin dough and prevents the meat juices from leaking into the water.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "168",
+      "query": "Why is the Bawal fish (Pomfret) so prized in Bengali coastal areas?",
+      "response": "It has a delicate, buttery texture and relatively few bones, making it suitable for both frying and light curries.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "169",
+      "query": "Why is the Tandoor oven so essential for the distinct taste of North Indian breads?",
+      "response": "The extreme heat and clay environment impart a unique smokiness and charred texture that home ovens cannot replicate.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Naan",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "170",
+      "query": "How is the smoky flavour in Baingan Bharta achieved without using liquid smoke?",
+      "response": "By roasting the whole eggplant directly over an open flame until the skin chars.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Baingan Bartha",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "171",
+      "query": "How does the Dum method of cooking ensure that meat remains tender and juices are preserved?",
+      "response": "The pot is sealed with dough to trap steam, allowing the meat to cook slowly in its own moisture.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Awadhi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "172",
+      "query": "How is Chhena Poda uniquely prepared differently from other Indian sweets?",
+      "response": "It is baked for several hours until the outer layer caramelizes and turns brown.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Odia cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "173",
+      "query": "How is the string texture of Idiyappam created during its preparation?",
+      "response": "By pressing hot rice flour dough through a specialized mould into a noodle-like shape before steaming.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Tamil cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "174",
+      "query": "How is Solkadhi served to aid digestion at the end of a heavy meal?",
+      "response": "It is served chilled and contains kokum and ginger, which are natural digestive stimulants.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Goan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "175",
+      "query": "How is Puran Poli rolled out without the sweet stuffing leaking out?",
+      "response": "The dough (poli) is made very elastic with oil/water, and the stuffing (puran) is made to a thick, non-sticky consistency.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Marathi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "176",
+      "query": "How is Naan traditionally baked to give it its characteristic charred spots?",
+      "response": "By slapping the dough against the intensely hot clay walls of a Tandoor oven.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Naan",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "177",
+      "query": "How is the Sana Thongba curry from Manipur made creamy without using heavy cream?",
+      "response": "By simmering paneer cubes in a base of reduced milk and mild spices.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Manipuri cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "178",
+      "query": "How is the Ngari (fermented fish) from Manipur prepared and why is it distinct?",
+      "response": "Small fish are salted and fermented in earthen jars for months, creating a highly concentrated, pungent paste.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Manipuri cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "179",
+      "query": "How is the Khar liquid extracted for Assamese cooking?",
+      "response": "By straining water through the ashes of sun-dried banana peels.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Assamese cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "180",
+      "query": "How is Misal Pav traditionally layered for a perfect balance of textures?",
+      "response": "A spicy sprout curry (kat) is topped with crunchy farsan, onions, and lemon, and served with soft bread.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Marathi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "181",
+      "query": "How is the burnt taste of traditional Afghan rice (Sela rice) avoided despite long cooking times?",
+      "response": "By parboiling the rice first and then carefully layering it with oil and broth before a final slow-steam (dum).",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "182",
+      "query": "How is Gatte ki Sabzi prepared from scratch in Rajasthan?",
+      "response": "Gram flour dough is rolled into cylinders, boiled, sliced into 'gatte', and then simmered in a yogurt-based gravy.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Rajasthani cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "183",
+      "query": "How is Bebinca layered to achieve its distinct appearance?",
+      "response": "Each thin layer of coconut-sugar batter is baked individually under a grill before the next layer is added.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Goan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "184",
+      "query": "How is Puttu traditionally shaped and steamed in Kerala?",
+      "response": "Rice flour and coconut are layered inside a cylindrical 'Puttu Kutti' (bamboo or metal tube) and steamed over a pot.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Kerala cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "185",
+      "query": "How is Rasgulla dough prepared to ensure it remains spongy?",
+      "response": "Fresh chhena (cheese) is kneaded until it is completely smooth and crack-free before being shaped into balls.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "186",
+      "query": "How is the Luchi dough different from standard whole-wheat Puri dough?",
+      "response": "Luchi uses 'maida' (refined white flour) and is often kneaded with extra fat (moen) for a flaky texture.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "187",
+      "query": "How is Sarson da Saag slow-cooked to its characteristic creamy consistency?",
+      "response": "Mustard greens are boiled with maize flour (makki ka atta) and then mashed with a traditional wooden churner.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Punjabi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "188",
+      "query": "How is Vindaloo traditionally preserved without modern refrigeration?",
+      "response": "The heavy use of vinegar and garlic acts as a natural preservative for the meat.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Goan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "189",
+      "query": "How is Chai traditionally prepared in a South Asian Dhaba?",
+      "response": "Tea leaves, milk, and sugar are boiled together vigorously in a large pot until the mixture reduces and becomes creamy.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Masala chai",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "190",
+      "query": "Contrast the physical characteristics of the rice used in Thalassery Biryani with Basmati rice.",
+      "response": "Thalassery uses short-grained Khaima rice, while Basmati is long-grained and elongates when cooked.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Thalassery cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "191",
+      "query": "Compare the souring agents typically used to achieve the tenga (sour) taste in Assam versus the tanginess in South Indian Sambar.",
+      "response": "Masor Tenga uses lemon or tomato; Sambar primarily uses tamarind.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Assamese cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "192",
+      "query": "In what way did the Columbian discovery fundamentally alter the taste of South Asian cuisine?",
+      "response": "It introduced chillies, potatoes, and tomatoes, which are now foundational to the cuisine.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "South Asian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "193",
+      "query": "Describe the unique roasting step that gives Maharashtrian Goda Masala its dark colour.",
+      "response": "The spices and dry coconut are roasted with oil until they turn dark brown or almost black.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Indian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "194",
+      "query": "How does the spice profile of Mizo cuisine differ from mainland Indian cuisine?",
+      "response": "It relies on boiling and fermented ingredients like Sa-um rather than complex dry spice blends.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Mizo cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "195",
+      "query": "Identify the primary role of Ngari in the preparation of Manipuri stews like Eromba.",
+      "response": "It acts as a fermented seasoning providing umami and deep saltiness.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Manipuri cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "196",
+      "query": "How does the diet of Northern Pakistan reflect its proximity to Central Asian nations?",
+      "response": "It features heavy use of wheat-based breads, grilled meats, and much milder spice levels.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "54. Pakistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "197",
+      "query": "Describe the texture and preparation of Aloo Bhaja (Bengali Potatoes) according to Wikibooks.",
+      "response": "They are julienned very finely and deep-fried until exceptionally crisp, seasoned only with turmeric and salt.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Bengal Potatoes",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "198",
+      "query": "Contrast the method of making Bhuna Khichuri with the standard porridge-like Khichdi.",
+      "response": "Bhuna Khichuri involves roasting the rice and lentils in oil before cooking to keep the grains separate and dry.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Bhuna Khichuri",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "199",
+      "query": "Identify the specific community in Sri Lanka responsible for the tradition of Lamprais.",
+      "response": "The Dutch Burgher community.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "20. Sri Lanka and The Maldives",
+      "source": "blog"
+    },
+    {
+      "query_id": "200",
+      "query": "Describe the role of dried apricots in Mediterranean-inspired Chicken Curry from the Wikibooks corpus.",
+      "response": "They are used to provide a subtle, natural sweetness that balances the savoury spices.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Chicken Curry (Mediterranean)",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "201",
+      "query": "How does the traditional Hoppers (Appam) pan contribute to its unique bowl shape?",
+      "response": "The small, curved 'Appachatti' pan allows the batter to settle at the bottom while creating thin, crispy edges.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Sri Lankan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "202",
+      "query": "Explain the difference between Kachchi and Pakki Biryani preparation styles.",
+      "response": "In Kachchi, raw meat and rice are cooked together; in Pakki, the meat and rice are par-cooked separately before layering.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Biryani",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "203",
+      "query": "What distinguishes Kakori Kebabs from standard Seekh Kebabs in terms of texture?",
+      "response": "Kakori kebabs are exceptionally soft and smooth (melt-in-the-mouth) due to multiple grindings and a specific ratio of fat.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Awadhi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "204",
+      "query": "List the three main components that make up the Rajasthani meal Dal Baati Churma.",
+      "response": "Spicy lentils (Dal), roasted wheat balls (Baati), and sweetened wheat crumble (Churma).",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Rajasthani cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "205",
+      "query": "Describe the appearance and consistency of Khandvi before it is rolled.",
+      "response": "It is a thin, smooth, and pliable yellow sheet made from gram flour and yogurt batter cooked on a flat surface.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Gujarati cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "206",
+      "query": "Why is Makki di Roti traditionally paired with Sarson da Saag during the winter months, in North Indian cuisine?",
+      "response": "Because mustard greens are a seasonal winter crop in Punjab and the dense, warm maize bread provides the necessary energy for the cold climate.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Punjabi cuisine",
+      "source": "blog"
+    },
+    {
+      "query_id": "207",
+      "query": "How does the climate of Afghanistan dictate the prominence of lamb and mutton in its diet?",
+      "response": "The high-fat content of these meats is essential for surviving the harsh, freezing winters in the mountains.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "38. Afghanistan",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "208",
+      "query": "Contrast the filling of a Maharashtrian Puran Poli with that of a South Indian Obbattu.",
+      "response": "While similar, Puran Poli primarily uses chana dal and jaggery, while regional variants may adjust the bean type and spice balance (like nutmeg vs cardamom).",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Marathi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "209",
+      "query": "Describe the unique way Kottu Roti is prepared on a street-side griddle.",
+      "response": "It is chopped rhythmically with heavy metal blades, creating a distinct clanging sound while mixing the flatbread and curry.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Sri Lankan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "210",
+      "query": "How is the dum (steam) method used to infuse aromatic spices into Lucknowi Biryani, in Awadhi cuisine?",
+      "response": "The pot is sealed with a rim of wheat dough to trap the steam, forcing the aromas of saffron and whole spices into the par-cooked rice and meat.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Awadhi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "211",
+      "query": "In what context is Sheer Khurma served as a primary celebratory dish?",
+      "response": "During the Eid-ul-Fitr festival marking the end of Ramadan.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "South Asian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "212",
+      "query": "How does the use of Mustard Seeds define the profile of South Indian tempering (Tadka)?",
+      "response": "They provide a nutty, toasted flavour and characteristic popping texture when heated in oil.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Idli",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "213",
+      "query": "Explain the process of making Paneer at home as described in the Wikibooks corpus.",
+      "response": "Boiling milk and adding an acidic agent like lemon juice to separate the curds from the whey, then pressing the curds.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Paneer",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "214",
+      "query": "What distinguishes Thalipeeth from a standard Paratha in terms of flour composition?",
+      "response": "Thalipeeth uses 'Bhajani', a flour made from roasted grains and pulses, whereas Paratha is usually just whole wheat.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Indian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "215",
+      "query": "Describe the flavor profile and color of Berma (fermented fish) in Tripuri cuisine.",
+      "response": "It is intensely salty, pungent, and brownish in colour, providing the main seasoning for Tripuri dishes.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Tripuri cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "216",
+      "query": "Identify the primary ingredients of the traditional Maldivian clear fish soup Garudhiya.",
+      "response": "Tuna (usually skipjack), water, and salt.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "20. Sri Lanka and The Maldives",
+      "source": "blog"
+    },
+    {
+      "query_id": "217",
+      "query": "How does the Sajji roasting technique in Balochistan differ from standard Tandoori roasting?",
+      "response": "Sajji involves roasting the whole animal on skewers over an open wood fire rather than in a closed clay oven.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "54. Pakistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "218",
+      "query": "Describe the layers of a Misal Pav bowl as it is served in Maharashtra.",
+      "response": "A base of sprouted bean curry (usal), a layer of spicy broth (rassa/kat), topped with crunchy farsan, onions, and coriander.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Marathi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "219",
+      "query": "Identify the specific green leaves used to wrap the dough for the snack Pathrode.",
+      "response": "Colocasia (taro) leaves.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Karnataka cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "220",
+      "query": "How is Double ka Meetha related to the local term for bread in Hyderabad?",
+      "response": "It is named after 'Double Roti', the local term for a loaf of bread.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Hyderabadi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "221",
+      "query": "Contrast the consistency of Kheer with its South Indian counterpart Payasam.",
+      "response": "Kheer is often thicker and cooked with rice, while Payasam can be more liquid and uses a variety of grains or vermicelli.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "South Asian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "222",
+      "query": "Describe the importance of Bathing the Rice (parboiling) in Afghan rice preparation.",
+      "response": "It removes excess starch so the grains remain long and separate during the subsequent steaming process.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "223",
+      "query": "How is the distinctively creamy and buttery texture of Dal Makhani achieved through slow-cooking, in Punjabi cuisine?",
+      "response": "By simmering whole black lentils (urad dal) and kidney beans with butter and cream over low heat for several hours, often overnight.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Punjabi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "224",
+      "query": "How does Mas Huni utilize the staple ingredients of the Maldives (fish and coconut)?",
+      "response": "It mixes shredded smoked tuna with freshly grated coconut and chillies for a protein-rich breakfast.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "20. Sri Lanka and The Maldives",
+      "source": "blog"
+    },
+    {
+      "query_id": "225",
+      "query": "Describe the physical appearance of Jalebi and the method used to give it its syrup-filled interior.",
+      "response": "It is pretzel-shaped and deep-fried, then immediately soaked in sugar syrup which it absorbs while hot.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Jalebi",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "226",
+      "query": "Identify the role of Asafoetida (Hing) in the Wikibooks Kadi recipe.",
+      "response": "It is added to the tempering (tadka) to provide a pungent, savory aroma that balances the sweetness of the yogurt.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Kadi",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "227",
+      "query": "How does the Sadhya feast reflect the agricultural diversity of Kerala?",
+      "response": "It includes a vast array of vegetarian dishes using local coconut, rice, and tropical vegetables like yam and plantains.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Kerala cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "228",
+      "query": "Describe the function of Kithul sap in the production of Sri Lankan Watalappam.",
+      "response": "The sap is used to make jaggery, which provides the primary sweetening agent and deep brown colour.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Sri Lankan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "229",
+      "query": "Contrast the meat preferences in Afghan cuisine (lamb/mutton) with those in traditional mainland Indian cuisine.",
+      "response": "Afghan cuisine focuses heavily on lamb and mutton fat for energy, while Indian cuisine has a much larger vegetarian and chicken-based focus.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "230",
+      "query": "How is the sweetness of Dhokla balanced in the Wikibooks recipe?",
+      "response": "By adding sugar to the batter and then tempering it with spicy green chillies and mustard seeds.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Dhokla",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "231",
+      "query": "Identify the significance of Magh Bihu in the context of Assamese Pitha consumption.",
+      "response": "It is the harvest festival during which a variety of Pithas (rice cakes) are traditionally prepared and shared.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Assamese cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "232",
+      "query": "Describe the texture of Gushtaba and why it is served at the very end of a Kashmiri Wazwan.",
+      "response": "It has a velvet-smooth, elastic texture and is served at the end as a final, prestigious course of the feast.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Kashmiri cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "233",
+      "query": "How does Rogan Josh get its Rogan (red oil) appearance?",
+      "response": "From a combination of fat/ghee and the intense red pigments of Kashmiri chillies or ratan jot root.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Kashmiri cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "234",
+      "query": "Identify the main seasoning ingredient in the Tibetan noodle soup Thukpa.",
+      "response": "A spice paste of garlic, onion, ginger, turmeric, and Szechwan pepper.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "8. South Asia Minor",
+      "source": "blog"
+    },
+    {
+      "query_id": "235",
+      "query": "How does the Shorwa soup illustrate the resourcefulness of Afghan home cooking?",
+      "response": "It uses simple meat and vegetable scraps to create a nutritious broth that is extended by dipping large amounts of bread.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "38. Afghanistan",
+      "source": "blog"
+    },
+    {
+      "query_id": "236",
+      "query": "Describe the role of Fenugreek seeds (Methi) in the fermentation of Idli batter.",
+      "response": "They help accelerate the fermentation process and add a subtle nutty aroma to the finished idlis.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Idli",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "237",
+      "query": "In what way is Sandesh distinct from Rasgulla despite both being made from Chhena?",
+      "response": "Sandesh is a dry, moulded sweet, while Rasgulla is a ball-shaped dumpling boiled and served in syrup.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "238",
+      "query": "How is Sali Boti garnished to add texture to the mutton curry?",
+      "response": "With a generous topping of 'sali', which are extremely fine, crispy fried potato matchsticks.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Parsi cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "239",
+      "query": "Identify the primary vegetable used to make the Maharashtrian snack 'Kothimbir Vadi'.",
+      "response": "Fresh coriander (Kothimbir).",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Indian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "240",
+      "query": "Describe the flavor profile of the Sindhi Basin Ki Kadi.",
+      "response": "It is a savoury, tangy chickpea flour curry filled with vegetables like okra and potatoes.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Cookbook:Basin Ki Kadi",
+      "source": "wikibooks"
+    },
+    {
+      "query_id": "241",
+      "query": "How does Pakhala in Odisha serve as a cooling meal during hot summers?",
+      "response": "The rice is fermented in water, which lowers its temperature and provides cooling probiotics.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Odia cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "242",
+      "query": "Identify the three types of Rassa (curry) famous in Kolhapuri cuisine.",
+      "response": "Pandhra Rassa (white), Tambda Rassa (red), and sometimes a dry sukka mutton.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Indian cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "243",
+      "query": "Describe the unique way Ker Sangri is sourced in the Rajasthani desert.",
+      "response": "It is made from 'Ker' (wild berries) and 'Sangri' (beans) from the Khejri tree, which are among the few things that grow in the arid Thar desert.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Rajasthani cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "244",
+      "query": "How is Shukto prepared to ensure its characteristic bitter taste?",
+      "response": "By including 'Karela' (bitter gourd) as a primary ingredient in the mixed vegetable stew.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Bengali cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "245",
+      "query": "Identify the role of Sattu in the diet of manual labourers in Bihar and Jharkhand.",
+      "response": "It is a high-protein, affordable 'superfood' made of roasted gram flour that is easily mixed with water or used as a filling for Litti.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Bihar cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "246",
+      "query": "In what way does Unnakaya represent the use of local fruits in Malabar snacks?",
+      "response": "It uses steamed and mashed ripe plantains as the primary casing for its sweet filling.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Kerala cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "247",
+      "query": "Describe the String Hopper (Idiyappam) as it is served in a traditional Sri Lankan breakfast.",
+      "response": "It is served as small mats of rice noodles, usually accompanied by Kiri Hodi (coconut milk gravy) or Pol Sambol.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Sri Lankan cuisine",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "248",
+      "query": "Identify the key difference between Gulab Jamun and Kala Jamun.",
+      "response": "Kala Jamun is fried for longer until the sugar in the milk solids caramelizes to a very dark brown or black colour.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "Gulab jamun",
+      "source": "wikipedia"
+    },
+    {
+      "query_id": "249",
+      "query": "How is Sel Roti traditionally shaped during frying?",
+      "response": "The batter is poured in a continuous circle directly into the hot oil by hand or using a funnel to create a ring shape.",
+      "retrieved_context": [],
+      "question_type": "varied",
+      "source_title": "8. South Asia Minor",
+      "source": "blog"
+    }
+  ]
+}
